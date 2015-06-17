@@ -25,11 +25,11 @@ Many of these plugins "annotate" elements on the page. Sometimes to show their e
 
 Installation
 
-1a. Install the plugin through the 'Plugins / New Plugin' menu in WordPress.
-1b. Upload the plugin folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. That is really all. You should see a small button in the bottom left of each page.
-4. Click that button and enjoy.
+* 1a. Install the plugin through the 'Plugins / New Plugin' menu in WordPress.
+* 1b. Upload the plugin folder to the `/wp-content/plugins/` directory.
+* 2. Activate the plugin through the 'Plugins' menu in WordPress.
+* 3. That is really all. You should see a small button in the bottom left of each page.
+* 4. Click that button and enjoy.
 
 == Frequently Asked Questions ==
 
