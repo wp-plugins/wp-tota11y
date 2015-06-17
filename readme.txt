@@ -23,7 +23,7 @@ Many of these plugins "annotate" elements on the page. Sometimes to show their e
 
 == Installation ==
 
-= Installation =
+Installation
 
 1a. Install the plugin through the 'Plugins / New Plugin' menu in WordPress.
 1b. Upload the plugin folder to the `/wp-content/plugins/` directory.
