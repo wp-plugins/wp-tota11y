@@ -3,7 +3,7 @@ Contributors: mpol
 Tags: tota11y, totally, development, accessibility, a11y, ally, validation, debugging, debug, kahn academy
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 
 
