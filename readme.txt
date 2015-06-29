@@ -49,6 +49,10 @@ Email any other questions to marcel at zenoweb dot nl.
 
 == Changelog ==
 
+= 1.0.1 =
+* 2015-06-29
+* Only load when user has capability manage_options.
+
 = 1.0 =
 * 2015-06-17
 * First Version with Git 2015-06-10.
