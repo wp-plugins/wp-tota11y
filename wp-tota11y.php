@@ -3,7 +3,7 @@
 Plugin Name: WP Tota11y
 Plugin URI: http://zenoweb.nl
 Description: WP Tota11y is an accessibility visualization toolkit. It can point out many common problems regarding accessibility.
-Version: 1.0.1
+Version: 1.0.2
 Author: Marcel Pol
 Author URI: http://zenoweb.nl
 License: GPLv2 or later
@@ -36,7 +36,7 @@ function wp_tota11y_js() {
 		wp_enqueue_script('jquery');
 
 		// Load Tota11y.js
-		wp_enqueue_script( 'wp-tota11y-js', WP_PLUGIN_URL . '/' . plugin_basename(dirname(__FILE__)) .'/js/tota11y.min.js', 'jquery', '1.0.1', true );
+		wp_enqueue_script( 'wp-tota11y-js', WP_PLUGIN_URL . '/' . plugin_basename(dirname(__FILE__)) .'/js/tota11y.min.js', 'jquery', '1.0.2', true );
 
 	}
 
